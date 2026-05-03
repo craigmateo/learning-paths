@@ -197,6 +197,7 @@ A consolidated record of online coursework and professional training.
 | Introduction to Applied Machine Learning | ML | [certificate](https://coursera.org/share/a1047e69d7d1c1ee3f2c5d175ef0526e) |
 | Oracle Database Foundations | SQL, DB | [certificate](https://coursera.org/share/0c18b23d0a594f9a5acdd62a3b1b8225) |
 | AI Infrastructure & Operations Fundamentals | AI, GPU | [certificate](https://coursera.org/share/2bfde9b3a30e1f9196baf540348a5f86) |
+| AI Programming with Python | AI, Python | [certificate](www.udacity.com/certificate/e/82853e00-06ed-11f1-93f8-4fbb981bc8d2) |
 
 ### Web & Networking
 | Course | Skills | Certificate |
