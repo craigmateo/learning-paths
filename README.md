@@ -33,7 +33,6 @@ and completed certifications where applicable.
   - [Mathematics](#mathematics)
   - [Physical Sciences \& Engineering](#physical-sciences--engineering)
     - [Natural Sciences](#natural-sciences)
-  - [Physical Sciences \& Engineering](#physical-sciences--engineering-1)
     - [Natural Sciences](#natural-sciences-1)
     - [Engineering](#engineering)
     - [Geography \& Geomatics](#geography--geomatics)
@@ -236,14 +235,9 @@ A consolidated record of online coursework and professional training.
 |--------|--------|-------------|
 | Chemistry | Chemistry | audit |
 | Plant Biology | Biology | [certificate](https://coursera.org/share/8f3302eeae23105deee85570e78446a2) |
-## Physical Sciences & Engineering
+| Introduction to Biology | Ecology, Evolution | [certificate 1](https://coursera.org/share/f1b987f1fa8dcf7ed45b0d911ab1824d), [certificate 2](https://coursera.org/share/80bd11f21a2a8580122b47dcae4a07bb) |
 
 ### Natural Sciences
-| Course | Skills | Certificate |
-|--------|--------|-------------|
-| Chemistry | Chemistry | audit |
-| Plant Biology | Biology | [certificate](https://coursera.org/share/8f3302eeae23105deee85570e78446a2) |
-| Introduction to Biology | Ecology, Evolution | [certificate 1](https://coursera.org/share/f1b987f1fa8dcf7ed45b0d911ab1824d), [certificate 2](https://coursera.org/share/80bd11f21a2a8580122b47dcae4a07bb) |
 
 ### Engineering
 | Course | Skills | Certificate |
